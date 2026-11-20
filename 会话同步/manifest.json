@@ -1,0 +1,111 @@
+{
+  "description": "Claude Code resume session snapshot",
+  "source_directory": "C:\\Users\\Administrator\\.claude\\projects\\E--erp-agent--",
+  "project_working_directory": "E:\\erp-agent测试",
+  "synced_at_utc": "2026-11-20T09:39:07.638331+00:00",
+  "restore": {
+    "target_directory_windows": "C:\\Users\\<user>\\.claude\\projects\\E--erp-agent--",
+    "note": "目录名由启动 Claude Code 时的工作目录编码而来；换路径时需对应调整，然后在项目目录运行 claude --resume。"
+  },
+  "files": [
+    {
+      "file": "0c038b7b-d120-4f25-a91b-a547ea1e9ac7.jsonl",
+      "session_id": "0c038b7b-d120-4f25-a91b-a547ea1e9ac7",
+      "bytes": 1589726,
+      "lines": 587,
+      "dropped_incomplete_lines": 0,
+      "sha256": "1f605b73c41c216adaf5a6c2dccffb1f820e6cc1fa0e07cc9af01b577740d18f",
+      "first_timestamp": "2026-11-20T07:23:41.751Z",
+      "last_timestamp": "2026-11-20T09:39:07.203Z",
+      "cwd": "E:\\erp-agent测试",
+      "message_roles": {
+        "user": 115,
+        "system": 3,
+        "assistant": 183
+      },
+      "record_types": {
+        "last-prompt": 34,
+        "mode": 33,
+        "permission-mode": 33,
+        "atis-latch": 33,
+        "attachment": 14,
+        "file-history-snapshot": 15,
+        "user": 98,
+        "api-request-shape": 1,
+        "api-request-blob": 35,
+        "api-request": 69,
+        "tools-used": 4,
+        "assistant": 168,
+        "ai-title": 30,
+        "system": 14,
+        "file-history-delta": 6
+      }
+    },
+    {
+      "file": "1a5c9753-32c4-4c10-92eb-3376dc837ef1.jsonl",
+      "session_id": "1a5c9753-32c4-4c10-92eb-3376dc837ef1",
+      "bytes": 1961441,
+      "lines": 430,
+      "dropped_incomplete_lines": 0,
+      "sha256": "4a799c161f33d6283c18fc19a447d21412947ad64f142f23d7347d0e86d38d64",
+      "first_timestamp": "2026-11-20T07:16:19.585Z",
+      "last_timestamp": "2026-11-20T07:21:17.989Z",
+      "cwd": "E:\\erp-agent测试",
+      "message_roles": {
+        "user": 105,
+        "system": 2,
+        "assistant": 139
+      },
+      "record_types": {
+        "last-prompt": 31,
+        "mode": 31,
+        "permission-mode": 31,
+        "atis-latch": 31,
+        "attachment": 14,
+        "file-history-snapshot": 3,
+        "user": 83,
+        "api-request-shape": 1,
+        "api-request-blob": 45,
+        "api-request": 36,
+        "tools-used": 4,
+        "assistant": 118,
+        "cost-state": 2
+      }
+    },
+    {
+      "file": "7700cfdc-5424-446c-822e-ca683f6bf645.jsonl",
+      "session_id": "7700cfdc-5424-446c-822e-ca683f6bf645",
+      "bytes": 5793224,
+      "lines": 2070,
+      "dropped_incomplete_lines": 0,
+      "sha256": "4a5e2b8d60427533f4830a4ba232497b8a81d33953de309d4e91f09e28ff5c79",
+      "first_timestamp": "2026-11-16T02:25:18.752Z",
+      "last_timestamp": "2026-11-20T08:39:13.900Z",
+      "cwd": "E:\\erp-agent测试",
+      "message_roles": {
+        "user": 360,
+        "system": 13,
+        "assistant": 605
+      },
+      "record_types": {
+        "last-prompt": 130,
+        "mode": 111,
+        "permission-mode": 111,
+        "atis-latch": 111,
+        "attachment": 31,
+        "file-history-snapshot": 124,
+        "user": 261,
+        "api-request-shape": 1,
+        "api-request-blob": 268,
+        "api-request": 208,
+        "ai-title": 110,
+        "tools-used": 8,
+        "assistant": 449,
+        "system": 142,
+        "file-history-delta": 1,
+        "queue-operation": 2,
+        "cost-state": 2
+      }
+    }
+  ]
+}
